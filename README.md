@@ -74,7 +74,7 @@ cv2.waitKey(0)
 ### ii)Write the image:
 ![output](m7.png)
 ### iii)Shape of the Image:
-![output](m8.png
+![output](m8.png)
 ### iv)Access rows and columns:
 ![output](m9.png)
 ### v)Cut and paste portion of image:
